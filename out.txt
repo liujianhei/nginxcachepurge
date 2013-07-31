@@ -1,0 +1,75 @@
+http://shang.b5m.com/data/attachment/group/32/group_66_icon.jpg
+nginx purge http://shang.b5m.com/data/attachment/group/32/group_66_icon.jpg
+----------------------
+host: 10.10.99.147
+status:400 Bad Request
+----------------------
+host: 10.10.99.148
+status:400 Bad Request
+----------------------
+host: 10.10.99.149
+status:400 Bad Request
+----------------------
+host: 10.10.99.166
+status:400 Bad Request
+----------------------
+http://shang.b5m.com/data/attachment/group/32/group_66_icon.jpg
+nginx purge http://shang.b5m.com/data/attachment/group/32/group_66_icon.jpg
+----------------------
+host: 10.10.99.147
+status:400 Bad Request
+----------------------
+host: 10.10.99.148
+status:400 Bad Request
+----------------------
+host: 10.10.99.149
+status:400 Bad Request
+----------------------
+host: 10.10.99.166
+status:400 Bad Request
+----------------------
+http://shang.b5m.com/data/attachment/group/32/group_66_icon.jpg
+nginx purge http://shang.b5m.com/data/attachment/group/32/group_66_icon.jpg
+----------------------
+host: 10.10.99.147
+status:400 Bad Request
+----------------------
+host: 10.10.99.148
+status:400 Bad Request
+----------------------
+host: 10.10.99.149
+status:400 Bad Request
+----------------------
+host: 10.10.99.166
+status:400 Bad Request
+----------------------
+http://shang.b5m.com/data/attachment/group/32/group_66_icon.jpg
+nginx purge http://shang.b5m.com/data/attachment/group/32/group_66_icon.jpg
+----------------------
+host: 10.10.99.147
+status:400 Bad Request
+----------------------
+host: 10.10.99.148
+status:400 Bad Request
+----------------------
+host: 10.10.99.149
+status:400 Bad Request
+----------------------
+host: 10.10.99.166
+status:400 Bad Request
+----------------------
+http://shang.b5m.com/data/attachment/group/32/group_66_icon.jpg
+nginx purge http://shang.b5m.com/data/attachment/group/32/group_66_icon.jpg
+----------------------
+host: 10.10.99.147
+status:404 Not Found
+----------------------
+host: 10.10.99.148
+status:404 Not Found
+----------------------
+host: 10.10.99.149
+status:404 Not Found
+----------------------
+host: 10.10.99.166
+status:404 Not Found
+----------------------
