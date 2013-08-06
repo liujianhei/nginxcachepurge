@@ -12,7 +12,7 @@ def clean(request):
     fd = open("bin/url.txt", 'wb')
     fd.write(url)
     fd.close()
-    cmdline0 = "dos2unix %s + url.txt" % bashpath
+    cmdline0 = "dos2unix %s/url.txt" % bashpath
     subprocess.call(cmdline0, shell=True)    
     cmdline = "cd %s && ./nginx-purge.sh url.txt" % bashpath
     print cmdline
